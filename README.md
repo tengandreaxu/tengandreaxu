@@ -6,4 +6,4 @@ I am currently also a quant engineer for Schlossberg&Co.
 
 My personal page: https://tengandreaxu.github.io/.
 
-![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengandreaxu)](https://github.com/tengandreaxu)
+![[Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=tengandreaxu)](https://github.com/tengandreaxu)
